@@ -14,6 +14,10 @@ Bienvenue dans la documentation du projet Mini Factory Model. Ce site a pour but
 
 Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
 
+Le but principal de la chaîne de production serait de trier des objets en fonction des formes et/ou des couleurs en utilisant le bras robotisé. Nous désirons créer une interface logicielle afin de pouvoir contrôler la maquette.
+
+Le but de notre projet serait donc de réaliser une maquette de chaîne de tri transportable sur les différents lieux de production. En effet, Unilasalle Amiens possède une filière PAUC (Production Automatisée et Usine Connectée) et un tel projet, pourrait permettre de faire la promotion de cette filière ou simplement de faire découvrir l’univers de la production automatisée
+
 ## Poster
 
 Ici vous publierez le poster de votre projet.
