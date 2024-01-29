@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendi
 
 ## Contexte du Projet
 
-Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+Nous nous sommes orientés sur ce projet dans le but de fournir une maquette/chaîne robotique de production. Cette maquette a pour but d'être utilisée afin d'exposer, lors des sorties promotionnelles, les compétences enseignées au sein de l'école avec une chaîne de production concrète miniaturisée et transportable. Celle-ci a comme objectif d'être facile à prendre en main et à installer pour l'utilisateur et pour ceux qui observent.
 
 ## Objectifs du Projet
 
