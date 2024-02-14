@@ -6,8 +6,6 @@ title: Objectifs du projet
 
 # Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
-
 ## Contexte du Projet
 
 Nous nous sommes orientés sur ce projet dans le but de fournir une maquette/chaîne robotique de production. Cette maquette a pour but d'être utilisée afin d'exposer, lors des sorties promotionnelles, les compétences enseignées au sein de l'école avec une chaîne de production concrète miniaturisée et transportable. Celle-ci a comme objectif d'être facile à prendre en main et à installer pour l'utilisateur et pour ceux qui observent.
