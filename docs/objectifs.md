@@ -10,11 +10,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendi
 
 ## Contexte du Projet
 
-Nous nous sommes orientés sur ce projet dans le but de fournir une maquette/chaîne robotique de production. Cette maquette a pour but d'être utilisée afin d'exposer, lors des sorties promotionnelles, les compétences enseignées au sein de l'école avec une chaîne de production concrète miniaturisée et transportable. Celle-ci a comme objectif d'être facile à prendre en main et à installer pour l'utilisateur et pour ceux qui observent.
+Plusieurs sorties promotionnelles sont organisées par le pôle communication de l'école dans les alentours d'amiens afin d'attirer de nouveaux élèves. Celles-ci ont pour objectif de promouvoir au mieux les compétences développées au sein de l'école de manière simple et ludique. Notre projet est né de ce postulat de base, la nécessité de créer un support visuel et physique qui puisse exposé du mieux possible les connaissances et l'expertise transmise dans notre cursus scolaire.
 
 ## Objectifs du Projet
 
-Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede.
+Nous nous sommes orientés sur ce projet dans le but de fournir une maquette/chaîne robotique de production avec une chaîne de production concrète miniaturisée et transportable. Celle-ci a comme objectif d'être facile à prendre en main et à installer pour l'utilisateur et pour ceux qui observent.
 
 # Existant
 
