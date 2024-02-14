@@ -479,3 +479,4 @@ poetry.toml
 pyrightconfig.json
 .DS_STORE
 # End of https://www.toptal.com/developers/gitignore/api/c++,kicad,jekyll,freecad,platformio,c,python,java,node
+docs/Gemfile.lock
