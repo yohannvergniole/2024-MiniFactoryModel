@@ -6,6 +6,7 @@ parent: Études et choix techniques
 ---
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
 
+#Bras robotisé Niryo Ned 2 et ses accessoires
 
 ## Modèle 3D du bras robot Niryo Ned 2
 
@@ -13,3 +14,5 @@ parent: Études et choix techniques
 
 
 
+Le bras robot Niryo Ned 2 est un cobot développé par la société Niryo Robotics.
+Ce robot est accompagné de plusieurs composants. Nous aurons accès au convoyeur et le kit vision lié. 
