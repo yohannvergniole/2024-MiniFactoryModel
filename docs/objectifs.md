@@ -1,12 +1,12 @@
 ---
 layout: default
 nav_order: 3
-title: Objectifs du projet
+title: Maquette de chaîne de production 
 ---
 
 # Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+Dans le cadre de notre projet I3, nous avons à réaliser un projet sur 75h de cours sans compter le temps personnel à investir pour développer le travail en équipe sur des sujets en cohérence avec les études et les compétences que l'on souhaite développer ultérieurement.
 
 ## Contexte du Projet
 
@@ -14,12 +14,12 @@ Plusieurs sorties promotionnelles sont organisées par le pôle communication de
 
 ## Objectifs du Projet
 
-Nous nous sommes orientés sur ce projet dans le but de fournir une maquette/chaîne robotique de production avec une chaîne de production concrète miniaturisée et transportable. Celle-ci a comme objectif d'être facile à prendre en main et à installer pour l'utilisateur et pour ceux qui observent.
+Nous nous sommes orientés sur ce projet dans le but de fournir une maquette/chaîne robotique de production concrète miniaturisée et transportable. Celle-ci a comme objectif d'être facile à prendre en main et à installer pour l'utilisateur et pour ceux qui observent. Cette chaine de production sera modulable afin de promouvoir la polyvalence de l'enseignement avec une maquette multi-usage.
 
 # Existant
 
-Praesent blandit adipiscing velit. Suspendisse potenti. Donec mattis, pede vel pharetra blandit, magna ligula faucibus eros, id euismod lacus dolor eget odio.
+Nous avons repris l'idée originale de ce projet qui a été trouvée lors du projet I2 sur un autre bras. Pour parvenir à un résultat concluant, nous partons d'un bras robotisé le ned 2 qui est fourni par l'école au début de ce projet avec ses accessoires.
 
 # Cahier des Charges
 
-Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus.
+
