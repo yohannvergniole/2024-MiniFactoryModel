@@ -10,7 +10,16 @@ parent: Études et choix techniques
 
 ## Modèle 3D du bras robot Niryo Ned 2
 
-<model-viewer alt="Modèle 3D du bras robot Niryo Ned 2" src="../shared-assets/models/Bras_Ned_2.gltf" poster="../images/capture_niryo.jpg" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
+<model-viewer id="viewer" alt="Modèle 3D du bras robot Niryo Ned 2" src="../shared-assets/models/Bras_Ned_2.gltf" poster="../images/capture_niryo.jpg" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
+
+<style>
+    #viewer
+    {
+        margin : auto;
+        width : 500px;
+        height : 500px;
+    }
+</style>
 
 ## Présentation 
 
@@ -19,9 +28,9 @@ Ce robot est accompagné de plusieurs composants. Nous aurons accès au convoyeu
 
 L'intégralité de ces objets ont été commandé par Unilasalle Amiens.
 
-## explication du choix 
+## Explication du choix 
 
 Ce robot présente de nombreux avantages. 
 Le premier étant le fait qu'il soit facile de le mettre en place ce qui réponds totalement à la problématique d'être utilisable sur des forums ou encore des présentations.
 Le second avantage est le fait que ce robot puisse se déplacer selon 6 axes ainsi que ses différentes fontionnalités grâce à son kit vision. 
-Le troisième avantage est sa conception pour l'tilisation en recherche, en enseignement ou en prototypage.
+Le troisième avantage est sa conception pour l'utilisation en recherche, en enseignement ou en prototypage.
