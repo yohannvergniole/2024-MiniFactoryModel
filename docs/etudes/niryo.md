@@ -9,5 +9,7 @@ parent: Études et choix techniques
 
 ## Modèle 3D du bras robot Niryo Ned 2
 
-<model-viewer alt="Modèle 3D du bras robot Niryo Ned 2" src="shared-assets/models/Bras_Ned_2.gltf" poster="../images/capture_niryo.jpg" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
+<model-viewer alt="Modèle 3D du bras robot Niryo Ned 2" src="../shared-assets/models/Bras_Ned_2.gltf" poster="../images/capture_niryo.jpg" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
+
+
 
