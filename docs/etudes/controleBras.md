@@ -26,3 +26,5 @@ En effet, nous souhaitons réaliser un maquette pouvant servir pour plusieurs ap
 
 ![illustration controle niryo avec une carte électronique](../images/blockly_control_electronic.png)
 
+*Source : [https://docs.niryo.com/applications/ned/v1.0.3/en/source/tutorials/control_ned_arduino.html](https://docs.niryo.com/applications/ned/v1.0.3/en/source/tutorials/control_ned_arduino.html)*
+
