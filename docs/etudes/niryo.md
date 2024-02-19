@@ -34,6 +34,7 @@ parent: Études et choix techniques
 
 Le bras robot [Niryo Ned 2](https://niryo.com/fr/produits-cobots/ned-robot-collaboratif-six-axes/) est un cobot développé par la société [Niryo Robotics](https://niryo.com/fr/a-propos/).
 Ce robot est accompagné de plusieurs composants. Nous aurons accès au convoyeur et le kit vision lié. 
+Premièrement, le convoyeur est un tapis roulant nous permettant de mouvoir des objets
 
 L'intégralité de ces objets ont été commandé par Unilasalle Amiens.
 
