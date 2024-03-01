@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Etapes de fabrication
-nav_order: 6
+nav_order: 7
 has_children: true
 ---
 
