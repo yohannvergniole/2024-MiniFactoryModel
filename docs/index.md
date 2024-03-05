@@ -8,7 +8,7 @@ title: Accueil
 
 Bienvenue dans la documentation du projet Mini Factory Model. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
-![Illustration montrant un schéma d'une chaîne représantant notre projet de maquette d'intéraction sur des objets présent sur un convoyeur](images/schema_chaine.jpg)
+![Illustration montrant un schéma d'une chaîne représantant notre projet de maquette d'intéraction sur des objets présent sur un convoyeur](shared-assets/images/schema_chaine.jpg)
 
 ## À propos du Projet
 

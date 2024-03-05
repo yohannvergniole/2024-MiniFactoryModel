@@ -12,7 +12,7 @@ Le principe est simple et similaire à celui des legos, on modélise des blocs d
 Voici des exemples afin de mieux comprendre le principe :
 
 
-![Illustration du projet gidfinity](../images/gridfinity.jpg)
+![Illustration du projet gidfinity](../shared-assets/images/gridfinity.jpg)
 *Source :*
 *[https://www.printables.com/fr/model/500544-gridfinity-baseplate-screwable/user-gcodes](https://www.printables.com/fr/model/500544-gridfinity-baseplate-screwable/user-gcodes)*
 

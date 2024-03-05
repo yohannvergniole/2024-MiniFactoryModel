@@ -1,6 +1,6 @@
 ---
 layout: default
 nav_order: 4
-title: Application Emballage 
-parent: Applications
+title: Module Emballage 
+parent: Modules
 ---
