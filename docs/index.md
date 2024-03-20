@@ -20,7 +20,7 @@ Le but de notre projet serait donc de réaliser une maquette de chaîne de tri t
 
 Ici vous publierez le poster de votre projet.
 
-![Poster projet](images/poster.jpg)
+
 
 ## Vidéo
 
