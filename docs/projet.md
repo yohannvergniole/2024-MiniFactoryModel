@@ -1,7 +1,7 @@
 ---
 layout: default
-nav_order: 2
-title: Maquette de chaîne de production 
+nav_order: 3 
+title: Présenation du projet
 ---
 
 # Introduction
