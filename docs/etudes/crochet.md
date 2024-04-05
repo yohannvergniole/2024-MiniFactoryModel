@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 6
-title: Contrôle des Applications
+title: Butée(fixation)
 parent: Études et choix techniques
 ---
 
