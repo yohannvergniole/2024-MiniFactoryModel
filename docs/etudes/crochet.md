@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 6
-title: Contrôle des Applications
+title: Butée pour la fermeture de la malette
 parent: Études et choix techniques
 ---
 
