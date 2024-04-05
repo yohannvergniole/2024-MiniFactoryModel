@@ -7,7 +7,7 @@ parent: Études et choix techniques
 
 # Comment contrôler le bras Niryo ?
 
-Nous pouvons contôler le bras robot grâce à un logiciel disponible gratuitement et conçu spécialement pour l'utilisation du bras.
+Nous pouvons contrôler le bras robot grâce à un logiciel disponible gratuitement et conçu spécialement pour l'utilisation du bras.
 
 ![Capture d'écran de l'application Niryo](../shared-assets/images/capture_appli_niryo.png)
 

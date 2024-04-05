@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 6
-title: Butée(fixation)
+title: Butée (fixation)
 parent: Études et choix techniques
 ---
 
