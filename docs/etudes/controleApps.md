@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 5
+nav_order: 3
 title: Contrôle des Applications
 parent: Études et choix techniques
 ---
