@@ -31,3 +31,10 @@ Une fois ce programme fonctionnel, nous décidons de s'attaquer au code permetta
 
 Les deux précédents tris ne nous permette pas de choisir un objet ou une couleur que nous souhaitons. Cela fais l'objet du troisième programme. Dans ce cas, nous demandons à l'utilisateur de choisir la couleur de leur choix (rouge par défaut) et sa forme (carré par défaut) afin de pouvoir sélectionner uniquement les objets de la couleur et de la forme choisi.
 Dans ce cas, nous avons deux positions de stockage des éléments triés. Le premier est celui où nous avons les objets souhaités et le second comporte les objets necorrespondant pas au(x) critère(s).
+
+Par la suite, nous nous devons de réaliser des ressources pédagiques afin de permettre au élève de prendre en main facilement et rapidement le robot tout en assurant la sécurité de chaque personne pouvant entrer en contact avec le robot. Pour ce faire, nous proposons 2 types de codes pédagogiques. 
+La première proposition est un code à remmettre dans l'ordre où il y a tout les blocks de codes écrit mais divisé en plusieurs petits codes. L'objectifs de cette ressource est de permettre aux élèves d'utiliser le robot sans se préocupper de l'utilisation des systèmes de mouvements. 
+La seconde proposition est un code à remplir selon les envies de l'utilisateur. Pour ce faire, nous allons fournir architecture globale du code et laisser vide les valeurs de déplacements. Cela permettra aux élèves de se familiariser avec les déplacements du robot et de leur effets. 
+
+
+**Une fois ces deux types d'exercices réaliser les élèves seront capable de faire leur propre programme basique avec le robot, son convoyeur et son kit vision.**
