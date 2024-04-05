@@ -30,6 +30,7 @@ Niryo met en vente beaucoup d'accessoires pouvant compléter le bras robot, parm
 
 
 Le kit Vision nous permet de faire de la reconnaissance de forme et de couleur, parfait pour notre module.
+Nous utiliserons uniquement les trois couleurs des objets fournis (rouge, vert et bleu) ainsi que leurs deux formes utiliser (rond et carré)
 Le kit vision comprend :
  -  Une zone de travail
  -  Une caméra
