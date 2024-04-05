@@ -22,7 +22,7 @@ Le robot est également configurable, via l'application, avec le langage python.
 ## Quelle solution allons-nous choisir ?
 
 Nous pensons que l'utilsation du langage *Blockly* et l'envoi d'information par signal électrique représente la meilleure option pour nous.
-En effet, nous souhaitons réaliser un maquette pouvant servir pour plusieurs applications. De ce fait, si nous prenons l'exemple de 2 applications différentes, il suffirait de relier une pin d'une carte électronique au robot Niryo. Selon le signal envoyé par la pin (haut ou bas) nous pouvons gérer l'action effectuée par le robot via *Blockly*.
+En effet, nous souhaitons réaliser une maquette pouvant servir pour plusieurs applications. De ce fait, si nous prenons l'exemple de 2 applications différentes, il suffirait de relier une pin d'une carte électronique au robot Niryo. Selon le signal envoyé par la pin (haut ou bas) nous pouvons gérer l'action effectuée par le robot via *Blockly*.
 
 ![illustration controle niryo avec une carte électronique](../shared-assets/images/blockly_control_electronic.png)
 
