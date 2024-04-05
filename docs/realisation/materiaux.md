@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Choix des matériaux
-parent: Etapes de fabrication
+parent: Réalisation
 nav_order: 1
 ---
 
