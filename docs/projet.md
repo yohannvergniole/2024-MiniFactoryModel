@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 3 
-title: Présenation du projet
+title: Présentation du projet
 ---
 
 # Introduction
