@@ -40,18 +40,21 @@ Le matériau que l'on va utiliser pour réaliser notre malette est le **peuplier
 ### Les fermetures à levier
 
 ![photo fermeture à levier](../shared-assets/images/photo_fermeture_levier.jpg)
+
 Nous utiliserons ce type de fermeture à levier pour fermer notre mallette. Simple et robuste, ce système permet une ouverture/fermeture rapide.
 Elles serviront à maintenir le capot de la mallette avec le socle qui sont amovibles.
 
 ### La charnière
 
 ![photo charnière](../shared-assets/images/photo_charniere.jpg)
+
 Nous utiliserons une charnière piano sur la longueur du socle, ce qui permettra aux deux parties qui le compose de pouvoir se déplier et se transformer en zone de travail.
 De plus, elle offrira un renfort au niveau de l'arête pour les futures manipulations et transport de la mallette.
 
 ### Les équerres
 
 ![photo charnière](../shared-assets/images/photo_equerre.jpg)
+
 Les équerres seront utilisées pour la fabrication du capot de la mallette.
 Elles permettront de renforcer les angles et d'assembler proprement les différentes plaques de contreplaqué ensemble.
 
@@ -67,6 +70,7 @@ Nous utiliserons aussi des vis M3 pour la fixation des différents accessoires p
 ## Le Vernis
 
 ![photo vernis](../shared-assets/images/photo_vernis_bois.jpg)
+
 Le vernis que nous utiliserons est un vernis marin.
 Ce vernis à la particularité de rendre le bois étanche ce qui permettra de protéger la mallette des intempéries.
 
@@ -76,7 +80,5 @@ Ce vernis à la particularité de rendre le bois étanche ce qui permettra de pr
         height: auto;
     }
 </style>
-
-###
 
 ---
