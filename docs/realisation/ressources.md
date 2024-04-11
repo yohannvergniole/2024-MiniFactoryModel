@@ -78,7 +78,6 @@ Ce vernis à la particularité de rendre le bois étanche ce qui permettra de pr
     img{
         width: 300px;
         height: auto;
+        display: block;
     }
 </style>
-
----
