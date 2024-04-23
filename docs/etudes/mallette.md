@@ -64,7 +64,7 @@ Inconvénients :
 ## Modèle N°3
 (voir [malette_3](../protoypesmalette/mallette_3.md))
 
-
+Notre troisième choix est la solution finale que nous voulons adopter. Cette solution combine les deux mallettes précédentes en intégrant la modularité de la première et le côté compacte dans la seconde. Cette mallette ne prend pas beaucoup de place et permet de stocker tous les éléments nécessaire à l'intérieur. Cependant beaucoup de sujets sont à étudier pour permettre sa réalisation.
 
 Avantages :
 

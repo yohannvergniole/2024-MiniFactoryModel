@@ -16,9 +16,7 @@ Plusieurs sorties promotionnelles sont organisées par le pôle communication de
 
 Nous nous sommes orientés sur ce projet dans le but de fournir une maquette/chaîne robotique de production concrète miniaturisée et transportable. Celle-ci a comme objectif d'être facile à prendre en main et à installer pour l'utilisateur et pour ceux qui observent. Cette chaine de production sera modulable afin de promouvoir la polyvalence de l'enseignement avec une maquette multi-usage.
 
-# Existant
 
-Nous avons repris l'idée originale de ce projet qui a été trouvée lors du projet I2 sur un autre bras. Pour parvenir à un résultat concluant, nous partons d'un bras robotisé le ned 2 qui est fourni par l'école au début de ce projet avec ses accessoires.
 
 # Cahier des Charges
 

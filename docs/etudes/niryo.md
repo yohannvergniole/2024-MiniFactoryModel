@@ -37,7 +37,20 @@ Ce robot est accompagné de plusieurs composants. Nous aurons accès au convoyeu
 
 Premièrement, le convoyeur est un tapis roulant nous permettant de mouvoir des objets. Cet objet va nous servir a déplacer les objets et simuler une chaine de production a vitesse constante. De plus, la vitesse réglable du tapis peux nous permettre de varier les exercices. 
 
+![Convoyeur](../shared-assets/images/convoyeur.webp)
+<style>
+    img
+    {
+        width:100%;
+    }
+</style>
+Source : [Convoyeur Niryo](https://niryo.com/fr/produits-cobots/tapis-roulant/)
+
 Deuxièmement, le kit vision fourni est un capteur que l'on fixe au niveau de la tête du bras robotisé. Ce dernier permet la détection des formes et des couleurs et nécessite un unique branchement sur le bras Niryo pour fonctionner ce qui apporte aucun désagrément sur sa portabilité.
+
+
+![GIF représentant le kit vision ](../shared-assets/video/visionGIF.gif)
+Source : ![GIF représentant le kit vision ](https://niryo.com/products-cobots/vision-set-ned2/)
 
 L'intégralité de ces objets ont été commandé par UniLaSalle Amiens.
 

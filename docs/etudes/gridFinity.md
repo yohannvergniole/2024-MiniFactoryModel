@@ -17,3 +17,7 @@ Voici des exemples afin de mieux comprendre le principe :
 *[https://www.printables.com/fr/model/500544-gridfinity-baseplate-screwable/user-gcodes](https://www.printables.com/fr/model/500544-gridfinity-baseplate-screwable/user-gcodes)*
 
 *[https://gridfinity.xyz](https://gridfinity.xyz)*
+
+# Utilisation dans notre projet
+
+Nous voulons utiliser ce système dans notre projet afin de faciliter la modularité. Ce système nous offre de nombreuses possibilités comme le fait de faire un plateau à coordonnées par exemple.
