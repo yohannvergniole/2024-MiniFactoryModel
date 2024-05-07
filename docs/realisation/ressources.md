@@ -31,17 +31,23 @@ Les matériaux retenus sont les suivants : le Polypropylène, le Peuplier ainsi 
 
 ## Choix final
 
-Le matériau que l'on va utiliser pour réaliser notre malette est le **peuplier**, on va utiliser des plaques en contreplaqué de 5mm que l'on va doubler pour améliorer la robustesse.
+Le matériau que l'on va utiliser pour réaliser notre malette est le **peuplier**, on va utiliser des plaques en contreplaqué de 5mm.
 
 ---
 
 ## Choix des systèmes d'accroche
 
-### Les fermetures à levier
+### Les profilés
 
-![photo fermeture à levier](../shared-assets/images/photo_fermeture_levier.jpg)
+![photo profilés](../shared-assets/images/photo_profile.jpg)
 
-Nous utiliserons ce type de fermeture à levier pour fermer notre mallette. Simple et robuste, ce système permet une ouverture/fermeture rapide.
+Les profilés seront utilisés pour créer un renfort de poids pour le socle de la boîte, cela évitera de devoir doubler l'épaisseur de la boîte pour pouvoir supporter tout le poids qui sera contenu dans la boîte.
+
+### Les sauterelles
+
+![photo sauterelles](../shared-assets/images/photo_sauterelle.jpg)
+
+Nous utiliserons ce type de sauterelles pour fermer notre mallette. Simple et robuste, ce système permet une ouverture/fermeture rapide, de plus elles sont bloquantes.
 Elles serviront à maintenir le capot de la mallette avec le socle qui sont amovibles.
 
 ### La charnière
@@ -53,7 +59,7 @@ De plus, elle offrira un renfort au niveau de l'arête pour les futures manipula
 
 ### Les équerres
 
-![photo charnière](../shared-assets/images/photo_equerre.jpg)
+![photo équerre](../shared-assets/images/photo_equerre.jpg)
 
 Les équerres seront utilisées pour la fabrication du capot de la mallette.
 Elles permettront de renforcer les angles et d'assembler proprement les différentes plaques de contreplaqué ensemble.
