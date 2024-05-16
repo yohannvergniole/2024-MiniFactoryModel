@@ -1,13 +1,10 @@
 ---
 layout: default
-nav_order: 6
-title: Butée (fixation)
-parent: Études et choix techniques
+nav_order: 4
+title: Butée 
+parent: Conception et prototypage
 ---
 
-# Fixation / Butée pour la fermeture de la malette
-
-Nous avons, après avoir choisi le type de malette, réfléchi à quels types de fixation nous pouvions utiliser afin de faciliter le déploiement la malette et sa fermeture.
 
 ## Tentative n°1
 

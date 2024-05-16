@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 4
+nav_order: 6
 title: Contrôle du Bras
 parent: Études et choix techniques
 ---
