@@ -42,7 +42,7 @@ img {
         <p class="image-caption">Alexis PINOTEAUX</p>
     </div>
     <div>
-        <img src="../shared-assets/images/yohann.jpg" alt="Photo Yohann" class="rounded-image">
+        <img src="../shared-assets/images/photo_Yohann.jpg" alt="Photo Yohann" class="rounded-image">
         <p class="image-caption">Yohann VERGNIOLE</p>
     </div>
 </div>
