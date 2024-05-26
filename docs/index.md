@@ -18,8 +18,7 @@ Le but de notre projet serait donc de réaliser une maquette de chaîne de tri t
 
 ## Poster
 
-Ici vous publierez le poster de votre projet.
-
+![photo poster](shared-assets/images/poster_mini_usine.jpg)
 
 
 
