@@ -14,16 +14,16 @@ la conception de cette mallette n'est pas si facile. En effet, nous avons besoin
 
 # La conception
 
-Nous avons eu plusieurs idées de conception (voir [conception](../protoypesmalette/conception.md)) afin de répondre au mieux à nos attentes.
+Nous avons eu plusieurs idées de conception (voir [conception](../conception/conception.html)) afin de répondre au mieux à nos attentes.
 
 Nous allons maintenant procéder à la description du modèle, de ses atouts et de ses inconvénients pour chacunes des mallettes.
 
 
 ## Modèle N°1
-(voir [malette_1](../protoypesmalette/mallette_1.md))
+(voir [malette_1](../conception/mallette_1.html))
 
 
-Le tout premier modèle sur lequel nous nous sommes entendu, est une mallette avec une architecture assez simple mais compact afin de prendre le moins d'espace lors du transport. Pour cela, nous avons opté pour une forme rectangulaire basique qui puisse comprendre tous les modules(voir [Modules](../applications/applications.md)), le convoyeur au centre de la malette, l'ordinateur de commande et les objets annexes nécessaire au bon fonctionnement des modules. Pour ce prototype, nous avons fais le choix de ne pas y intégrer le robot niryo(voir [Bras robotisé Niryo Ned 2 et ses accessoires](../niryo.md)) afin de faciliter le transport de la mallette grâce à un poids restreint ( le bras étant la partie la plus lourde de la chaine de production(7kg)) et à une plus petite taille.
+Le tout premier modèle sur lequel nous nous sommes entendu, est une mallette avec une architecture assez simple mais compact afin de prendre le moins d'espace lors du transport. Pour cela, nous avons opté pour une forme rectangulaire basique qui puisse comprendre tous les modules (voir [Modules](../applications/applications.html)), le convoyeur au centre de la malette, l'ordinateur de commande et les objets annexes nécessaire au bon fonctionnement des modules. Pour ce prototype, nous avons fais le choix de ne pas y intégrer le robot niryo (voir [Bras robotisé Niryo Ned 2 et ses accessoires](niryo.html)) afin de faciliter le transport de la mallette grâce à un poids restreint ( le bras étant la partie la plus lourde de la chaine de production(7kg)) et à une plus petite taille.
 De plus, il est très facile de déployer le dispositif grâce à sa forme géométrique simple qui une fois ouverte donne une chaine dans la bonne disposition et prêt à l'utilisation.
 
 Avantages :
@@ -43,9 +43,9 @@ Inconvénients :
 
 
 ## Modèle N°2
-(voir [malette_2](../protoypesmalette/mallette_2.md))
+(voir [malette_2](../conception/mallette_2.html))
 
-Notre second choix est une architecture plus complexe dans laquelle nous avons choisi d'y intégrer l'entièreté des composants de notre chaine de production(le bras niryo(voir [Bras robotisé Niryo Ned 2 et ses accessoires](../niryo.md)), convoyeur,...). Nous avons imaginé un modèle à deux étages avec les modules dans l'un des tiroirs et dans le second le convoyeur et enfin le bras robot placé sur la face supérieure du module.
+Notre second choix est une architecture plus complexe dans laquelle nous avons choisi d'y intégrer l'entièreté des composants de notre chaine de production (le bras niryo(voir [Bras robotisé Niryo Ned 2 et ses accessoires](niryo.html)), convoyeur,...). Nous avons imaginé un modèle à deux étages avec les modules dans l'un des tiroirs et dans le second le convoyeur et enfin le bras robot placé sur la face supérieure du module.
 
 Avantages :
 
@@ -62,7 +62,7 @@ Inconvénients :
 
 
 ## Modèle N°3
-(voir [malette_3](../protoypesmalette/mallette_3.md))
+(voir [malette_3](../conception/mallette_3.html))
 
 Notre troisième choix est la solution finale que nous voulons adopter. Cette solution combine les deux mallettes précédentes en intégrant la modularité de la première et le côté compacte dans la seconde. Cette mallette ne prend pas beaucoup de place et permet de stocker tous les éléments nécessaire à l'intérieur. Cependant beaucoup de sujets sont à étudier pour permettre sa réalisation.
 

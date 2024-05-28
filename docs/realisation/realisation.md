@@ -1,19 +1,20 @@
 ---
 layout: default
 title: Réalisation
-nav_order: 7
+nav_order: 8
 has_children: true
 ---
 
-# Étapes de Fabrication
+# Étapes de Réalisation
 
-Bienvenue dans la section dédiée aux étapes de fabrication du projet XYZ. Ici, vous trouverez des guides détaillés pour chaque étape du processus de fabrication.
+Bienvenue dans la section dédiée aux étapes de fabrication du projet mini usine. Ici, vous trouverez des guides détaillés pour chaque étape du processus de fabrication.
 
-## Aperçu des Étapes
+## Sommaire des Étapes
 
 Le processus de fabrication est divisé en plusieurs étapes clés :
 
-1. [Choix des matériaux](materiaux)
+1. [Choix des matériaux](ressources.md)
+2. [Assemblage](assemblage.md)
 
 ## Commencer
 
