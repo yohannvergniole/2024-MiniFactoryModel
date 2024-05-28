@@ -42,4 +42,4 @@ Nous pouvons ainsi la fixer sur notre mallette. Cependant, cette charnière nous
     rotation="90 90 90">
 </model-viewer>
 
-Malheureusement pour nous, ceci créé un autre problème. Visser la charnière seulement dans une plaque de 5mm met en péril la solidité la structure. Nous avons donc besoin d'une [pièce de support](pieceSupport.html) dans laquelle nous allons visser la charnière.
+Malheureusement pour nous, ceci créé un autre problème. Visser la charnière seulement dans une plaque de 5mm met en péril la solidité la structure. Nous avons donc besoin d'une [pièce de support](../conception/supportCharniere.md) dans laquelle nous allons visser la charnière.
