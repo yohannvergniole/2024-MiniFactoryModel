@@ -22,8 +22,8 @@ parent: Conception et prototypage
 <model-viewer 
     id="viewer" 
     alt="Modèle 3D du bras robot Niryo Ned 2" 
-    src="../shared-assets/models/mallette_3.gltf" 
-    poster="../shared-assets/images/capture_niryo.jpg" 
+    src="../shared-assets/models/3D_REPRESENTATION.gltf" 
+    poster="../shared-assets/images/3D_REPRESENTATION.png" 
     shadow-intensity="1" 
     camera-controls 
     touch-action="pan-z"
