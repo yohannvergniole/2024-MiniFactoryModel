@@ -14,7 +14,7 @@ la conception de cette mallette n'est pas si facile. En effet, nous avons besoin
 
 # La conception
 
-Nous avons eu plusieurs idées de conception (voir [conception](../conception/conception.html)) afin de répondre au mieux à nos attentes.
+Nous avons eu plusieurs idées de conception (voir [conception](../conception/conception.md)) afin de répondre au mieux à nos attentes.
 
 Nous allons maintenant procéder à la description du modèle, de ses atouts et de ses inconvénients pour chacunes des mallettes.
 
