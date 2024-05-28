@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Choix quincaillerie
+title: Choix des ressources
 parent: Réalisation
 nav_order: 1
 ---
