@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Choix des matériaux
-parent: Réalisation
-nav_order: 10
+title: Module tri avec kit vision
+parent: Programmation
+nav_order: 1
 ---
 
 # Module de tri avec kit vision
 
-Comme dit [plus haut](../applications/chaineTri.md), notre premier module est un module de tri. Ce tri sera fait par les couleurs et/ou par les formes.
+Comme expliqué précédemment, notre premier module est un module de tri. Ce tri sera fait par les couleurs et/ou par les formes.
 
 ## L'objectif
 
