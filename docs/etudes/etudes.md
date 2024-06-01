@@ -7,8 +7,6 @@ has_children: true
 
 # Études et choix techniques
 
-***Intro***: 
-
 Sur cette page, nous répertorions toutes les prises de décisions techniques et les recherches qui nous ont permis de choisir la meilleure solution en fonction des informations à notre disponibilité.  
 
 

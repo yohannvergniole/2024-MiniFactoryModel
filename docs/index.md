@@ -21,7 +21,7 @@ Le but de notre projet serait donc de réaliser une maquette de chaîne de tri t
 
 ![photo poster](shared-assets/images/poster_mini_usine.jpg)
 
-
+## Vidéo
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/1ccF_rse7Ak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

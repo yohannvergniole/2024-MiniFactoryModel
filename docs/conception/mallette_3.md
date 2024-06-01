@@ -38,7 +38,7 @@ Nous avons réalisé un prototype à l'échelle 1/10 des dimensions souhaité po
 Ce prototype nous permettra d'éviter de futurs erreurs de conception car on a constaté qu'il manquait les coins sur les longueurs de la boîte.
 On ajustera donc les dimensions du prototype final pour pouvoir obtenir un rectangle régulier.
 Seul un côté restera sans coin, celui de la liaison des deux parties du socle.
-En effet, elles sont attachées par une charnière, nous ne pouvons pas combler le trou sinon nous empêcherons la rotation de celles-ci. 
+En effet, elles sont attachées par une charnière, nous ne pouvons pas combler le trou sinon nous empêcherons la rotation de celles-ci.
 
 ![Photo socle](../shared-assets/images/proto_socle.jpg)
 Photo du socle déplié, le scotch représente la charnière permettant la rotation des deux parties.
