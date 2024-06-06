@@ -13,7 +13,9 @@ L'utilisateur doit d'abord placer le robot à l'emplacement lié à la démonstr
 
 ![photos montrant le placement robot](../shared-assets/images/placement_robot.jpg)
 
-Par la suite, il faut placer les 3 plaques qui recevront les objets triés.
+Par la suite, il faut placer la plaque qui recevras les objets à transporter.
+
+Une fois le programme lancé les objets devront être placé les un après les autres pendant l'execution du programme. Il faut faire attention à bien placé la pièce au centre de la plaque.
 
 
 ## Matériel
@@ -21,5 +23,4 @@ Par la suite, il faut placer les 3 plaques qui recevront les objets triés.
 Pour ce module, nous avons besoin :
  -  Un convoyeur qui va amener les objets au bras robot
  -  Le bras robot
- -  Des capteurs pour la couleur et la forme des objets
- -  Des boîtes de rangement pour les objets triés
+ -  Une plaque pour prendre les objets

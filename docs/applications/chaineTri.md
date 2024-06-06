@@ -24,7 +24,7 @@ Pour ce module, nous avons besoin :
  -  Un convoyeur qui va amener les objets au bras robot
  -  Le bras robot
  -  Des capteurs pour la couleur et la forme des objets
- -  Des boîtes de rangement pour les objets triés
+ -  Des plaques pour recevoir les objets triés
 
 ## Le kit Vision de Niryo
 
