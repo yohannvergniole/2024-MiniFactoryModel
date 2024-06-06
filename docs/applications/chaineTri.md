@@ -11,7 +11,12 @@ Cette application est la première idée que nous avons eu en commençant le pro
 
 ## Fonctionnement
 
-L'utilisateur saisit, grâce au système de gestion des modules, la façon dont il veut trier les objets (forme et/ou couleur). Ensuite, les objets défilent sur un tapis roulant afin d'être trier par le niryo.
+L'utilisateur doit d'abord placer le robot à l'emplacement lié à la démonstration comme ci-dessous. 
+
+![photos montrant le placement robot](../shared-assets/images/placement_robot.jpg)
+
+Par la suite, il faut placer les 3 plaques qui recevront les objets triés.
+
 
 ## Matériel
 

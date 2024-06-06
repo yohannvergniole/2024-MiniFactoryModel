@@ -78,4 +78,3 @@ Inconvénients :
 
 - remettre le robot dans sa position initiale
 - poids plus élevé
-
