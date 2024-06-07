@@ -7,34 +7,35 @@ nav_order: 1
 
 # Module de tri avec kit vision
 
-Comme expliqué précédemment, notre premier module est un module de tri. Ce tri sera fait par les couleurs et/ou par les formes.
+Comme expliqué précédemment, le premier module est un module de tri. Ce tri sera fait par les couleurs et/ou par les formes.
 
 ## L'objectif
 
-Dans ce module nous cherchons à reproduire une chaîne de tri basique. Nous cherchons donc à trier les objets venant du convoyeur.
+Ce module reproduit une chaîne de tri basique. Il trie donc les objets venant du convoyeur.
 
 ## Sa réalisation
 
-Tout d'abord, ce module utilise le kit vision. Il faut donc le paramétrer. Pour ce faire nous avons à disposition 4 cibles à fixer sur les côté du convoyeur. 
-Une fois les cibles installer, il est nécessaire d'enregistrer leurs positions dans le robot afin qu'il puisse les utiliser. C'est à ce moment que nous devons utiliser la pointe de précision fourni dans dans le kit vision. 
-Nous venons positionner la pointe au centre de la cible grâce au bouton "freemotion" sur le côté du bras. Une fois positionner, on appui sur le bouton "save" présent à la gauche du bouton précédent. On répète donc ces étapes pour les 3 autres cibles. 
-Cette initialisation de la zone de travail est à faire à chaque fois que nous la déplaçons à une nouvelle place mais plusieurs zone peuvent être paramétré dans le robot. 
+Tout d'abord, ce module utilise le kit vision. Il faut donc le paramétrer. Pour ce faire, il est mis à disposition 4 cibles à fixer sur les côtés du convoyeur. 
+Une fois les cibles installer, il est nécessaire d'enregistrer leurs positions dans la mémoire du bras robot afin qu'il puisse les utiliser. C'est à ce moment qu'il faut utiliser la pointe de précision fourni dans le kit vision. 
+Pour enregistrer chaque cible, il faut positionner la pointe au centre de cette dernière grâce au bouton "freemotion" sur le côté du bras. Une fois positionné, on appui sur le bouton "save" présent à côté du bouton précédent. On répète donc ces étapes pour les 3 autres cibles. 
+Cette initialisation de la zone de travail est à faire à chaque fois qu'elle est déplacé à une nouvelle place mais plusieurs zones peuvent être paramétré dans le cobot. 
 
 
-Ensuite nous allons pouvoir nous concentrer sur le module en lui même. 
+Maintenant que cela est fait, il faut se concentrer sur le module en lui même.
 
 Ce module se divise en plusieurs programmes. 
 
-Dans un premier temps, nous avons choisi de mettre en place le tri par couleur. Pour ce faire, nous placons le robot afin que le kit vision puisse voir l'intégralité de la zone de travail choisi. Une fois bien positionné nous choisissons de scanner en continu la zone. Une fois qu'un objet y rentre, nous stoppons le convoyeur. Par la suite, le robot analyse l'objet (uniquement la couleur dans ce cas). Une fois l'analyse effectué, le robot réagi en conséquence en saisissant l'objet puis en le déplacant à l'endroit prédéfini pour la couleur. Une fois l'objet déplacer, le convoyeur se remet en marche et le robot reviens se mettre à sa position d'observation. Le programme se réexécute continuellement tant que la sécurité n'est pas atteinte. La sécurité est donc un compteur qui s'incrémente à chaque fois que le programme regarde dans la zone de travail et qu'il n'y a rien. Une fois arrivé à 50 le robot reviens se mettre dans une position d'attente, le convoyeur s'arrête et le programme se termine. La valeur de la sécurité repasse à 0 à chaque fois que la caméra détecte un objet dans la zone de travail.
+Dans un premier temps,  choisi de mettre en place le tri par couleur. Pour ce faire, il faut articuler le bras robotisé afin que le kit vision puisse voir l'intégralité de la zone de travail choisi. Une fois bien positionné, la caméra scanne la zone en continu. Une fois qu'un objet y rentre, le cobot envoi la consigne de stopper le convoyeur. Par la suite, la caméra analyse l'objet (uniquement la couleur dans ce cas). Une fois l'analyse effectué, le cobot réagi en conséquence en saisissant l'objet puis en le déplacant à l'endroit prédéfini pour la couleur. Une fois l'objet déplacer, le convoyeur se remet en marche et le cobot se remet à sa position d'observation. Le programme se réexécute continuellement tant que la sécurité n'est pas atteinte. La sécurité est donc un compteur qui s'incrémente à chaque fois que le programme regarde dans la zone de travail et qu'il n'y a rien. Une fois arrivé à 50 (ce qui correspond à 15 secondes environ), le cobot reviens se mettre dans une position d'attente, le convoyeur s'arrête et le programme se termine. La valeur de la sécurité repasse à 0 à chaque fois que la caméra détecte un objet dans la zone de travail.
 
-Une fois ce programme fonctionnel, nous décidons de s'attaquer au code permettant le tri par forme. Nous utilisons le même algorithme à l'exception que le robot fait le choix en fonction de la forme et non de la couleur.
+Une fois ce programme fonctionnel, il faut s'attaquer au code permettant le tri par forme. Pour ce faire, le même algorithme sera utiliser à l'exception que le cobot fait le choix en fonction de la forme et non de la couleur.
 
-Les deux précédents tris ne nous permette pas de choisir un objet ou une couleur que nous souhaitons. Cela fais l'objet du troisième programme. Dans ce cas, nous demandons à l'utilisateur de choisir la couleur de leur choix (rouge par défaut) et sa forme (carré par défaut) afin de pouvoir sélectionner uniquement les objets de la couleur et de la forme choisi.
-Dans ce cas, nous avons deux positions de stockage des éléments triés. Le premier est celui où nous avons les objets souhaités et le second comporte les objets necorrespondant pas au(x) critère(s).
+Les deux précédents tris ne permette pas de choisir un objet ou une couleur que l'utilisateur. Cela fais l'objet du troisième programme. Dans ce cas, il est demandé à l'utilisateur de choisir la couleur de leur choix (rouge par défaut) et sa forme (carré par défaut) afin de pouvoir sélectionner uniquement les objets de la couleur et de la forme choisi.
+Dans ce cas, il existent deux positions de stockage des éléments triés. Le premier est celui où les objets souhaités seront déposés et le second comporte les objets ne correspondant pas au(x) critère(s).
 
-Par la suite, nous nous devons de réaliser des ressources pédagiques afin de permettre au élève de prendre en main facilement et rapidement le robot tout en assurant la sécurité de chaque personne pouvant entrer en contact avec le robot. Pour ce faire, nous proposons 2 types de codes pédagogiques. 
-La première proposition est un code à remmettre dans l'ordre où il y a tout les blocks de codes écrit mais divisé en plusieurs petits codes. L'objectifs de cette ressource est de permettre aux élèves d'utiliser le robot sans se préocupper de l'utilisation des systèmes de mouvements. 
-La seconde proposition est un code à remplir selon les envies de l'utilisateur. Pour ce faire, nous allons fournir architecture globale du code et laisser vide les valeurs de déplacements. Cela permettra aux élèves de se familiariser avec les déplacements du robot et de leur effets. 
+Par la suite, il faut s'attaquer à la réalisation des ressources pédagogiques afin de permettre au élève de prendre en main facilement et rapidement le cobot Niryo Ned 2 tout en assurant la sécurité de chaque personne pouvant entrer en contact avec le robot collaboratif. Pour ce faire, il existe 2 types de codes pédagogiques. 
+La première proposition est un code à remmettre dans l'ordre où il y a tout les blocks de codes écrit mais divisé en plusieurs petits codes. L'objectifs de cette ressource est de permettre aux élèves d'utiliser le cobot sans se préocupper de l'utilisation des systèmes de mouvements. 
+La seconde proposition est un code à remplir selon les envies de l'utilisateur. Pour ce faire, il sera fourni une architecture globale du code et les valeurs de déplacements seront laisser vides. Cela permettra aux élèves de se familiariser avec les déplacements du cobot et de leur effets. 
 
+Il est important de noter que des étapes positions intermédiaire on été paramétré afin que le cobot ne rentre pas en collision avec d'autres objets pendant l'éxecution du programme.
 
-**Une fois ces deux types d'exercices réaliser les élèves seront capable de faire leur propre programme basique avec le robot, son convoyeur et son kit vision.**
+**Une fois ces deux types d'exercices réaliser les élèves seront capable de faire leurs propres programmes basiques avec le cobot Niryo Ned 2, son convoyeur et son kit vision.**
