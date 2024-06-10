@@ -33,9 +33,9 @@ Les deux précédents tris ne permette pas de choisir un objet ou une couleur qu
 Dans ce cas, il existent deux positions de stockage des éléments triés. Le premier est celui où les objets souhaités seront déposés et le second comporte les objets ne correspondant pas au(x) critère(s).
 
 Par la suite, il faut s'attaquer à la réalisation des ressources pédagogiques afin de permettre au élève de prendre en main facilement et rapidement le cobot Niryo Ned 2 tout en assurant la sécurité de chaque personne pouvant entrer en contact avec le robot collaboratif. Pour ce faire, il existe 2 types de codes pédagogiques. 
-La première proposition est un code à remmettre dans l'ordre où il y a tout les blocks de codes écrit mais divisé en plusieurs petits codes. L'objectifs de cette ressource est de permettre aux élèves d'utiliser le cobot sans se préocupper de l'utilisation des systèmes de mouvements. 
+La première proposition est un code à remmettre dans l'ordre où il y a tout les blocks de codes écrit mais divisé en plusieurs petits codes. L'objectif de cette ressource est de permettre aux élèves d'utiliser le cobot sans se préocupper de l'utilisation des systèmes de mouvements. 
 La seconde proposition est un code à remplir selon les envies de l'utilisateur. Pour ce faire, il sera fourni une architecture globale du code et les valeurs de déplacements seront laisser vides. Cela permettra aux élèves de se familiariser avec les déplacements du cobot et de leur effets. 
 
-Il est important de noter que des étapes positions intermédiaire on été paramétré afin que le cobot ne rentre pas en collision avec d'autres objets pendant l'éxecution du programme.
+Il est important de noter que des étapes positions intermédiaire ont été paramétré afin que le cobot ne rentre pas en collision avec d'autres objets pendant l'éxecution du programme.
 
 **Une fois ces deux types d'exercices réaliser les élèves seront capable de faire leurs propres programmes basiques avec le cobot Niryo Ned 2, son convoyeur et son kit vision.**
