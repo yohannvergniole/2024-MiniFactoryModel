@@ -3,6 +3,9 @@ layout: default
 nav_order: 10 
 title: Modèle 3D du couvercle
 ---
+
+<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
+
 # Modèle 3D du couvercle
 
 Nous avons modélisé le couvercle, si vous souhaitez le réaliser vous pouvez voir un aperçu ci-dessous. 
@@ -18,3 +21,12 @@ Le fichier est disponible dans les ressources du site.
     touch-action="pan-z"
     rotation="90 90 90">
 </model-viewer>
+
+<style>
+    #viewer
+    {
+        margin : auto;
+        width : 500px;
+        height : 500px;
+    }
+</style>
