@@ -53,6 +53,11 @@ Ci-dessous nous vous présentons les modèles 3D des différentes idées en expl
     rotation="0 0 90">
 </model-viewer>
 
+| Avantages | Inconvénients |
+| :---------: | :-----------: |
+| Tout est contenu dans la boîte  | Instable |
+|  | Descente du bras robot restreinte |
+
 ## Mallette 3
 
 <model-viewer
@@ -65,5 +70,10 @@ Ci-dessous nous vous présentons les modèles 3D des différentes idées en expl
     touch-action="pan-z"
     rotation="0 0 90">
 </model-viewer>
+
+| Avantages | Inconvénients |
+| :---------: | :-----------: |
+| Tout est contenu dans la boîte  | Encombrant à transporter |
+| Plan de travail réduit |  |
 
 C'est ce choix que nous avons décidé de réaliser.

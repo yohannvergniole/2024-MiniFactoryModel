@@ -6,7 +6,7 @@ parent: Conception et prototypage
 ---
 
 Ce support modélisé en 3D permet de fixer la charnière au socle.
-Nous avons réalisé une pièce qui se glisse dans le profilé, ce qui facilite la fixation nécessitant une vis et un écrou. Nous l'avons modélisée en 3D car nous voulions une forme spécifique pour notre projet, non disponible sur le marché.
+Nous avons réalisé une pièce qui se glisse dans le profilé, ce qui facilite la fixation nécessitant une vis et un écrou. Nous l'avons modélisé en 3D car nous voulions une forme spécifique pour notre projet, non disponible sur le marché.
 
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
 

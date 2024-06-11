@@ -11,7 +11,6 @@ Nous pouvons contrôler le bras robot grâce à un logiciel disponible gratuitem
 
 ![Capture d'écran de l'application Niryo](../shared-assets/images/capture_appli_niryo.png)
 
-
 Cette application a été conçu pour faciliter l'utilisation et la configuration du bras Niryo.
 Il est possible de le programmer avec le langage *Blockly* qui est un langage d'assemblage de blocs.
 
@@ -27,4 +26,3 @@ En effet, nous souhaitons réaliser une maquette pouvant servir pour plusieurs a
 ![illustration controle niryo avec une carte électronique](../shared-assets/images/blockly_control_electronic.png)
 
 *Source : [https://docs.niryo.com/applications/ned/v1.0.3/en/source/tutorials/control_ned_arduino.html](https://docs.niryo.com/applications/ned/v1.0.3/en/source/tutorials/control_ned_arduino.html)*
-
