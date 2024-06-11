@@ -11,7 +11,7 @@ Nous allons désormais passer à l'assemblage de nos différents éléments.
 
 ## Armature du socle
 
-Ci-dessous vous trouverez une vidéo de la fixation de l'armature du socle à laquelle on va venir ajouter les plasques en contreplaqués.
+Ci-dessous vous trouverez une vidéo de la fixation de l'armature du socle à laquelle on va venir ajouter les plaques en contreplaqués de 5mm.
 
 <video width="600" controls>
   <source src="../shared-assets/video/video_armature.mp4" type="video/mp4">
@@ -19,7 +19,7 @@ Ci-dessous vous trouverez une vidéo de la fixation de l'armature du socle à la
 
 ## Fixation de la grille et des systèmes d'accroche
 
-Une fois l'armature et les plaques en bois fixées ensemble, nous avons ajouter la grille modulaire ainsi que les systèmes d'accroche pour maintenir le socle en place pour le fixer au couvercle.
+Une fois l'armature et les plaques en bois fixées ensemble, nous avons ajouté la grille modulaire ainsi que les systèmes d'accroche pour maintenir le socle en place pour le fixer au couvercle.
 Mais avant cela nous allons ajouter le convoyeur et le cobot.
 
 ![socle gridfinity](../shared-assets/images/socle_gridfinity.jpeg)
