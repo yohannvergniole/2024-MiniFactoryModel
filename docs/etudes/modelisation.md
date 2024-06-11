@@ -34,7 +34,7 @@ Afin de fixer nos profilés ensemble, nous avons pensé à utiliser ce système 
 </model-viewer>
 
 Le problème est que nous ne pouvons pas fixer ce genre d'équerre avec le budget restant, par conséquence, nos profilés sont libres et n'ont pas une position fixe.
-Nous avons donc décidé de concevoir notre propre équerre : [equerre pour profilés](../conception/equerreProfile.html), nous pourrons la fixer en utilisant du matériel mis à notre disposition.
+Nous avons donc décidé de concevoir notre propre [équerre](../conception/equerreProfile.html), nous pourrons la fixer en utilisant du matériel mis à notre disposition.
 
 <style>
     #viewer
