@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 6
+nav_order: 5
 title: Equerre Profilés
 parent: Conception et prototypage
 ---

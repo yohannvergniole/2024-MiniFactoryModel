@@ -7,8 +7,8 @@ nav_order: 1
 
 # Choix des différentes ressources
 
-Pour réaliser notre mallette, nous avons étudier les différents matériaux possibles à sa fabrication.
-Nous avons dû étudier les caractéristiques de chaque famille de matériaux ainsi que les différences entre les matériaux de même famille.
+Pour réaliser notre mallette, nous avons étudier les différents matériaux possibles pour sa fabrication.
+Nous avons dû étudier les caractéristiques de chaque famille de matériaux ainsi que les différences entre les matériaux de même catégorie.
 
 ## Liste des familles de matériaux
 
@@ -41,14 +41,14 @@ Le matériau que l'on va utiliser pour réaliser notre malette est le **peuplier
 
 ![photo profilés](../shared-assets/images/photo_profile.jpg)
 
-Les profilés seront utilisés pour créer un renfort de poids pour le socle de la boîte, cela évitera de devoir doubler l'épaisseur de la boîte pour pouvoir supporter tout le poids qui sera contenu dans la boîte.
+Les profilés seront utilisés pour créer un renfort pour le socle de la boîte, cela évitera de devoir doubler l'épaisseur de contreplaqué pour pouvoir supporter tout le poids qui sera contenu dans la boîte.
 
 ### Les sauterelles
 
 ![photo sauterelles](../shared-assets/images/photo_sauterelle.jpg)
 
 Nous utiliserons ce type de sauterelles pour fermer notre mallette. Simple et robuste, ce système permet une ouverture/fermeture rapide, de plus elles sont bloquantes.
-Elles serviront à maintenir le capot de la mallette avec le socle qui sont amovibles.
+Elles serviront à maintenir le couvercle de la mallette avec le socle.
 
 ### La charnière
 
@@ -61,15 +61,14 @@ De plus, elle offrira un renfort au niveau de l'arête pour les futures manipula
 
 ![photo équerre](../shared-assets/images/photo_equerre.jpg)
 
-Les équerres seront utilisées pour la fabrication du capot de la mallette.
+Les équerres seront utilisées pour la fabrication du couvercle de la mallette.
 Elles permettront de renforcer les angles et d'assembler proprement les différentes plaques de contreplaqué ensemble.
 
 ### Colle & Vis
 
 Pour fixer les plaques de bois entre elles, nous avons décidé d'utilisé de la colle.
 C'est facile d'utilisation et c'est résistant.
-Ensuite pour les différents accesoires précédemment cités, nous allons devoir les visser et pour ce faire, nous allons des vis M3.
-Nous utiliserons aussi des vis M3 pour la fixation des différents accessoires pour les modules du Cobot.
+Ensuite pour les différents accessoires précédemment cités, nous allons devoir les visser et pour ce faire, nous allons utiliser des vis M3.
 
 ---
 
@@ -78,7 +77,7 @@ Nous utiliserons aussi des vis M3 pour la fixation des différents accessoires p
 ![photo vernis](../shared-assets/images/photo_vernis_bois.jpg)
 
 Le vernis que nous utiliserons est un vernis marin.
-Ce vernis à la particularité de rendre le bois étanche ce qui permettra de protéger la mallette des intempéries.
+Ce vernis à la particularité de rendre le bois étanche ce qui permettra de protéger la mallette de l'eau.
 
 <style>
     img{

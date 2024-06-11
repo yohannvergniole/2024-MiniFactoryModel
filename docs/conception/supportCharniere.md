@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 5
+nav_order: 4
 title: Support de la charnière
 parent: Conception et prototypage
 ---
