@@ -38,8 +38,6 @@ Le problème est que nous ne pouvons pas fixer ce genre d'equerre et nos profil�
 Nous avons donc décidé de concevoir notre propre equerre : [equerre pour profilés](../conception/equerreProfile.html)
 
 
-
-
 <style>
     #viewer
     {
