@@ -7,7 +7,7 @@ has_children: true
 
 # Les différentes applications possibles avec notre Projet
 
-Nous avons deux applications différentes. 
+Nous avons deux applications différentes.
 
 La première est la simulation d'une chaîne de tri. Pour cette utilisation, nous pouvons utiliser un tri selon les couleurs et les formes. Il y a aussi la possibilité de choisir la couleur et la forme que nous souhaitons garder. [(voir page Module Chaine de Tri)](chaineTri.md)
 

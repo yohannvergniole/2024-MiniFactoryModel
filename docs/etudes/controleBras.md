@@ -11,7 +11,6 @@ Nous pouvons contrôler le bras robot grâce à un logiciel disponible gratuitem
 
 ![Capture d'écran de l'application Niryo](../shared-assets/images/capture_appli_niryo.png)
 
-
 Cette application a été conçu pour faciliter l'utilisation et la configuration du bras Niryo.
 Il est possible de le programmer avec le langage *Blockly* qui est un langage d'assemblage de blocs.
 
@@ -21,10 +20,8 @@ Le robot est également configurable, via l'application, avec le langage python.
 
 ## Quelle solution allons-nous choisir ?
 
-Nous pensons que l'utilsation du langage *Blockly* et l'envoi d'information par signal électrique représente la meilleure option pour nous.
-En effet, nous souhaitons réaliser une maquette pouvant servir pour plusieurs applications. De ce fait, si nous prenons l'exemple de 2 applications différentes, il suffirait de relier une pin d'une carte électronique au robot Niryo. Selon le signal envoyé par la pin (haut ou bas) nous pouvons gérer l'action effectuée par le robot via *Blockly*.
+Nous pensons que l'utilsation du langage *Blockly* est la meilleure option pour nous. En effet, notre projet doit être une solution éducative et facile à mettre en place pour des utilisateurs qui ne s'y connaissent pas énormément. Blockly est un langage facile à prendre en main et ressemble beaucoup à Scratch qui est un langage qui est étudié dans beaucoup de collèges.
 
 ![illustration controle niryo avec une carte électronique](../shared-assets/images/blockly_control_electronic.png)
 
 *Source : [https://docs.niryo.com/applications/ned/v1.0.3/en/source/tutorials/control_ned_arduino.html](https://docs.niryo.com/applications/ned/v1.0.3/en/source/tutorials/control_ned_arduino.html)*
-

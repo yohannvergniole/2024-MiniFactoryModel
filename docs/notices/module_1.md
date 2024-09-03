@@ -7,11 +7,11 @@ parent: Notices
 
 # Mise en place du module 1
 
-## Explication du module : 
+## Explication du module
 
 Ce module a pour but de trier selon les critères de formes ou de couleurs.
 
-## Les étapes à suivre :
+## Les étapes à suivre
 
 1) Suivre les étapes de la notice « Mise en Place des Démonstrations »
 

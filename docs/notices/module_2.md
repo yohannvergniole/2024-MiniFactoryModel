@@ -7,11 +7,11 @@ parent: Notices
 
 # Mise en place du module 2
 
-## Explication du module :
+## Explication du module
 
 Ce module a pour but de récupérer un objet sur une position définie puis de l’amener à une autre position définie elle aussi.
 
-## Les étapes à suivre :
+## Les étapes à suivre
 
 1) Suivre les étapes de la notice « Mise en Place des Démonstrations »
 
@@ -30,4 +30,3 @@ S’il n’apparaît pas, aller dans l’onglet « Blockly » présent dans la l
 5) Mettre les objets fournis (carré et rond de couleur) au centre de la plaque puis lancer le programme
 
 **! Attention mettre les objets un par un. !**
-
